@@ -1,70 +1,103 @@
 ## DRAFT 2017 Roadmap 
-*subject to change*
+Sprint Draft Calendar
+zm 1/3/2017
 
-* **T-10 Weeks: (week of March 27)** 
-   * Initial announcement & Save the Date
+#### January 1 
+* Create Planning Calendar
+* Confirm roles/staffing
 
-* **T-8 Weeks: (week of April 03)** 
-   * Hub Leads Meeting
-   * Plan swag
-   * Comms meeting and strategy
+#### January 8
+* Team Review of Process/Materials & Calendar
+* ID key wranglers
+* determine incentives/swag
 
-* **T-7 Weeks: (weeks of April 10 and April 17)** 
-  * Project submission form opens
-  * Private solicitation for projects email
-  * Site submission form opens
-  * Private solicitation for sites email
-  * Mo-Fo wide Sprint meeting (April 13, [watch here on AirMo](https://air.mozilla.org/2017-global-sprint-info-session/))
-  * Finalize Swag
-  * **Hubs blog to announce the Sprint!**
+#### January 15
+* Create goals and metrics for event (projects, sites, participation)
+* Design any new components (ie Teach-In, speakers/lightning talks, collaboration with Advocacy, etc)
+* ID any special partners (libraries, makerspaces, schools, study groups, etc)
 
-* **WEEKLY From April 17 to April 30**
-   * mention the Sprint 1 x weekly via tweet, FB post, mentions in newsletter, community calls, or other regular communications 
-   * point people back to your Hub Sprint blog post (see above) and the GS site
-   * mention exciting projects that have been added, or new host sites
+#### January 22
+* Collaborate with Lotta & Kevin on comms plan/announcement 
+* Start quick visual design process (2018 graphics, stickers/swag, etc)
+* Create and send out participant survey 
+* Meet with Legal re: hosts, data policies, etc
+* Reach out to partners
 
-* **WEEKLY From May 1 through May 19**
-   * mention the Sprint 2 x weekly via tweet, FB post, mentions in newsletter or other regular communications 
-   * point people back to your Hub Sprint blog post (see above) and the GS site
-   * mention exciting projects that have been added, or new host sites, other news
-   * highlight deadlines for project submission and site host registration
+#### January 29
+* Review Survey responses
+* Begin Update of Materials 
+* Begin 2018 site creation
+* Partner meetings? 
 
-* **T-3 Weeks: (week of May 8)** 
-  * Site submissions closes
-  * Progress meeting
- 
-* **T-2 weeks: (week of May 15)** 
-  * Final call for projects
-  * Webconferencing testing with Site Hosts starts
-  * A/V Testing Schedule for Site Hosts
-  * Finalize “Day Of” format for check-in / demos schedules
-  * Comms per plan
+#### February 5
+* Continue Update of Materials
+* First Wrangler/Anchor Host Meeting
+* February 12
+* GS 2018 Site Launch 
+*Blog announcement/call for projects & sites
 
-* **WEEKLY From May 22 through May 31**
-   * mention the Sprint 3 x weekly via tweet, FB post, mentions in newsletter or other regular communications 
-   * point people back to your Hub Sprint blog post (see above) and the GS site
-   * mention exciting projects that have been added, or new host sites, other news
-   * link to Moz-wide communications
-   * highlight countdown to event!
+#### February 19
+* 1- hour intro to WOLO for GS webinar
 
-* **T-2 Weeks: (week of May 22)** 
-  * Project submission **closes May 26**
+#### February 26
+* Comms: Teach-In Highlight, Curriculum Spotlight
+* Other comms TBD per plan
 
-* **T+0 Days: (June 01 )**
-   * Begin live broadcast
-   * vidyo
-   * possible to turn twitter & github analytics into R-shiny web app? Probably.
-   * begin live-tweeting event
+#### March 5
+* MoFo/MoCo Sprint Meeting/AIrMo 
+* Global Sprint AMA session for early birds
+* Other comms TBD per plan
 
-* **T+2 Days: (June 05)**
-   * Wrap up
-   * Comms
-   * Project lead thank you email
-   * Site host thank you email
-   * Follow-up on post-event surveys
+#### March 12
+* Site drive week! AMA especially for site hosts
+* Comms: Host site stories, host opportunities
+* Other comms TBD per plan
 
-* **T+5 Days: (June 08)**
-  * Report back
-  * Storify #mozsprint
-  * blog analytics + map
+#### March 19
+* 1- hour intro to WOLO for GS webinar
+* Send out swag
+* Other comms TBD per plan
 
+#### March 26 
+* Project lead outreach 
+* AMA especially for project leads
+* Comms: project spotlight
+* Send out swag
+* Other comms TBD per plan
+
+#### April 2
+* AMA or recorded session/video for participants
+* Participant sign-up drive-- email and comms spotlight
+* Send out swag
+* Other comms TBD per plan
+
+#### April 9
+* Send out swag
+* Other comms TBD per plan
+
+#### April 16
+* Site submission closes 
+* 1- hour intro to WOLO for GS webinar
+* Send out swag
+* Other comms TBD per plan
+
+#### April 23
+* Site Host Orientation meetings/CPG training
+* Other comms TBD per plan
+
+#### April 30
+* Project submission closes 
+* Site Host Orientation meetings//CPG training
+* Video link testing for sites
+* Other comms TBD per plan
+
+#### May 7 Sprint Week 
+* CPG training posted as webcast
+* Live tweet & broadcast of the event
+* Analytics reports & updates
+
+#### May 14
+* Wrap up
+* Thank you emails to leads and hosts
+* Post-event surveys
+* Recap posts (map, data) & next steps 
