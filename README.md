@@ -1,4 +1,4 @@
-## Welcome to the 2017 Global Sprint Planning Repo!
+## Welcome to the 2018 Global Sprint Planning Repo!
 
  **This year's sprint takes place on May 10 and 11, 2018.**
 
