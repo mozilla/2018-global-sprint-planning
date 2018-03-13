@@ -1,6 +1,6 @@
-# Selecting Projects for the Global Sprint
+# Guiding Projects to a Successful Global Sprint
 
-Thanks for helping wrangling projects for the Globa Sprint! You'll be helping projects and Project Leads prepare to welcome and encourage new contributions from a wide range of Sprint participants with varied background and skills. You'll help:
+Thanks for helping guide projects at the Globa Sprint! You'll be helping Project Leads prepare to welcome and encourage new contributions on their projects from a wide range of Sprint participants with varied background and skills. You'll help:
 
 * Encourage projects from your community to register for the Sprint!
 * Review project documentation and suggest edits/changes (as needed) to make materials more contributor-friendly
@@ -10,14 +10,13 @@ Start by familiarizing yourself with the [Project Lead info](https://mozilla.git
 
 ### Workflow for Project Registration and Preparation
 1. Project Lead (PL) fills out the [project submission form](https://goo.gl/forms/lvzjKt981TK9P3XQ2). Form includes box to check for Internet Health association/connection.
-2. PL receives email with link to issue template & checklist. Designated Project Wrangler (PW) is automatically cc'ed. 
-3. PL makes issue; PW is tagged automatically to be notified of the new issue.
-4. PW reviews issue, and add labels for tracks, comments and answers questions as needed. 
-5. If/when PL completes checklist to be featured project, PW adds project to Network Pulse with Global Sprint tags.
-
+2. PL receives email with link to issue template & checklist. Designated Project Guide (PG) is automatically cc'ed. 
+3. PL makes issue; PG is tagged automatically to be notified of the new issue.
+4. PG reviews issue, and add labels for tracks, comments and answers questions as needed. 
+5. If/when PL completes checklist to be featured project and creates Pulse submission, PG adds project to Network Pulse with Global Sprint tags.
 
 #### Using labels
-Encourage Project Leads to use labels that will help contributors find projects that match both their content interest and their skillset. For example, "help wanted:design" "help wanted"javascript" "help wanted: copyediting" 
+Encourage Project Leads to use labels that will help contributors find projects that match both their content interest and their skillset. For example, "help wanted:design" "help wanted:javascript" "help wanted:copyediting" 
 
 #### Posting to Mozilla Pulse
 Once the project lead posts `This is ready for Mozilla Pulse`, check that they have completed all the steps to be a FEATURED project. If all's in order, [post the project to Mozilla Pulse](https://www.mozillapulse.org/add).
