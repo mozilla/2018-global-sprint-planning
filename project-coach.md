@@ -39,4 +39,4 @@ Project coaches encourage Project Leads to use labels that will help contributor
 If you think a project is better suited for another community, tag another Coach in the comments.
 
 #### 2018 Project Coaches
-
+List coming soon!
