@@ -11,7 +11,7 @@ Start by familiarizing yourself with the [Project Lead info](https://mozilla.git
 ### Workflow for Project Registration and Preparation
 1. Project Lead (PL) fills out the [project submission form](https://goo.gl/forms/lvzjKt981TK9P3XQ2). Form includes box to check for Internet Health association/connection.
 2. PL receives email with link to issue template & checklist. Designated Project Coach (PC) is automatically cc'ed. 
-3. PL creates the issue in the main global sprint reop. This issue is the project's entry in the index of projects in the Sprint. PC is tagged automatically and notified of the new issue.
+3. PL creates the issue in the main global sprint repository. This issue is the project's entry in the index of projects in the Sprint. PC is tagged automatically and notified of the new issue.
 4. PC reviews issue, adds labels for tracks, comments and answers questions as needed. Note that this issue should link to a project-specific repo where Sprint work will take place.  
 5. PC reviews project-specific repo, scans for any possible barriers to entry, such as overuse of jargon, poor or confusing documentation, lack of good "first bugs" or clear instruction on how to get involved. Also keep an eye out for lingering placeholder text from the GH template that project leads forked. All text should be project specfic!
 6. PC provides feedback to PL to revise documentation as needed-- this can be done in GH issues. 
