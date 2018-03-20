@@ -15,8 +15,9 @@ Start by familiarizing yourself with the [Project Lead info](https://mozilla.git
 4. PC reviews issue, adds labels for tracks, comments and answers questions as needed. Note that this issue should link to a project-specific repo where Sprint work will take place.  
 5. PC reviews project-specific repo, scans for any possible barriers to entry, such as overuse of jargon, poor or confusing documentation, lack of good "first bugs" or clear instruction on how to get involved. Also keep an eye out for lingering placeholder text from the GH template that project leads forked. All text should be project specfic!
 6. PC provides feedback to PL to revise documentation as needed-- this can be done in GH issues. 
-7. If/when PL completes checklist to be featured project and creates Pulse submission, PC adds project to Network Pulse with Global Sprint tags, or pings a Mozilla staff moderator do so. 
-8. When the project is complete and featured, PC encourages PL to remove the preparation check-list from their issue in the GS repo, so the issue is now bright, shiny and contributor facing! 
+7. If/when PL completes checklist to be featured project, PL creates a Pulse listing using the Pulse submission form (link in PL's issue checklist). PL should also add the appropriate tags, especially the global sprint tags. PL should add the tags `mozsprint` and `2018`, and any relevant interent health tags
+8. Once the listing is submitted, the PC reviews the listing (see below, for tips on reviewing) and approves project in Mozilla Pulse or pings a Mozilla staff moderator do so. 
+9. When the project is complete and featured, PC encourages PL to remove the preparation check-list from their issue in the GS repo, so the issue is now bright, shiny and contributor facing! 
 
 ### Featured Projects on Pulse
 An featured project is one that's been reviewed for documetation and will appear at the top of the list The following information must be included in any Pulse listing-- ensure that this information is complete before approving any submission! It is OK to lighty edit the Pulse listing for grammar or clarity if needed. If see a need for major edits, communicate with the PL about them.
@@ -26,7 +27,7 @@ An featured project is one that's been reviewed for documetation and will appear
 * **Description** A clear and concise description of the project
 * **Creator(s)** Project lead name(s)
 * **Why might this be interesting to other people in our network?** This field is important-- it will help contributors see where they fit in! 
-* **Tags** Add the tags `mozsprint` and `2018`  **!!! < THIS IS VERY IMPORTANT !!!!**
+* **Tags** `mozsprint` and `2018`
 * **Key Internet Issues** OK to add multiple issue tags.
 * **Looking for support?...** Ensure that this say ssomething like  "If you're interested in contributing to this project jump in on the GitHub repository now or join us during #mozsprint May 11 & 12, 2017!" 
 * **Link for people to get involved.** Add a link to the `mozsprint` label on GitHub, or better yet-- to the project readme on the project-specific repository. 
