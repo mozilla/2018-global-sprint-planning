@@ -1,8 +1,8 @@
 # Coaching Projects to a Successful Global Sprint
 
-Thanks for helping coach projects at the Globa Sprint! You'll be helping Project Leads prepare to welcome and encourage new contributions on their projects from a wide range of Sprint participants with varied background and skills. You'll help:
+Thanks for helping coach projects at the Globa Sprint! You'll be helping Project Leads prepare to welcome and encourage new contributions on their projects from a wide range of Sprint participants with varied backgrounds and skills. You'll help:
 
-* Encourage projects from your community to register for the Sprint!
+* Encourage projects from your community to register for the Sprint
 * Review project documentation and suggest edits/changes (as needed) to make materials more contributor-friendly
 * Answer any Sprint related questions Project Leads may have
 
@@ -51,7 +51,7 @@ Coaches encourage Leads to use labels that will help contributors find projects 
 Also encourage Leads to add these labels, or more specific ones like "help wanted: javascript" to their individual issues in their own project-specific repos. THe goal here is to make it as easy as possible for contributors to find work to do!
 
 #### How to reassign a project
-If you feel very storongly that a project is better suited for another issue, tag another Coach in the comments, and cc zee-moz and acabunoc in that comment. 
+If you feel very storongly that a project is better suited for another issue, tag another Coach in the comments, and tag zee-moz and acabunoc in that comment. 
 
 #### 2018 Project Coaches
 List coming soon!
