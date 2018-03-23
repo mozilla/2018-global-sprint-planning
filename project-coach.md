@@ -14,7 +14,7 @@ Many projects that are new to GitHub and the Sprint may have forked a template r
 
 
 ### Workflow for Project Registration and Preparation
-1. Project Lead (Lead) fills out the [project submission form](https://goo.gl/forms/lvzjKt981TK9P3XQ2). Form includes box to check for Internet Health association/connection.
+1. Project Lead (Lead) fills out the [project submission form](https://docs.google.com/forms/d/e/1FAIpQLSddIWql0lLPU5nSC_eiMSju_IgyQTNMBzbUksE_jCAaItWdZQ/viewform). Form includes box to check for Internet Health association/connection.
 2. Lead receives email with link to issue template & checklist. Designated Project Coach (Coach) is automatically cc'ed. 
 3. Lead creates the issue in the main global sprint repository. This issue is the project's entry in the index of projects in the Sprint. Coach is tagged automatically and notified of the new issue.
 4. Coach reviews issue, adds labels for tracks, comments and answers questions as needed. Note that this issue should link to a **project-specific repo** where Sprint work will take place.  
