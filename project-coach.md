@@ -8,12 +8,15 @@ Thanks for helping coach projects at the Globa Sprint! You'll be helping Project
 
 Start by familiarizing yourself with the [Project Lead info](https://mozilla.github.io/global-sprint/projects/) and [Project Requirements](https://mozilla.github.io/global-sprint/project-requirements/) for the 2018 Sprint. 
 
+As you know, a great README and good contributor guidelines and a clear license are key to building strong, active open projects-- so a thorough documentation review of all Sprint projects is very important! Many projects that are new to GitHub may have forked a template repo that we provided, and that template is filled with placeholder text. It's really important that this text is replaced with project specific text, throughout the repo! This is one of the things you should look for when reviewing project documentation. Detials and workflow are below! 
+
+
 ### Workflow for Project Registration and Preparation
 1. Project Lead (PL) fills out the [project submission form](https://goo.gl/forms/lvzjKt981TK9P3XQ2). Form includes box to check for Internet Health association/connection.
 2. PL receives email with link to issue template & checklist. Designated Project Coach (PC) is automatically cc'ed. 
 3. PL creates the issue in the main global sprint repository. This issue is the project's entry in the index of projects in the Sprint. PC is tagged automatically and notified of the new issue.
-4. PC reviews issue, adds labels for tracks, comments and answers questions as needed. Note that this issue should link to a project-specific repo where Sprint work will take place.  
-5. PC reviews project-specific repo, scans for any possible barriers to entry, such as overuse of jargon, poor or confusing documentation, lack of good "first bugs" or clear instruction on how to get involved. Also keep an eye out for lingering placeholder text from the GH template that project leads forked. All text should be project specfic!
+4. PC reviews issue, adds labels for tracks, comments and answers questions as needed. Note that this issue should link to a **project-specific repo** where Sprint work will take place.  
+5. PC reviews project-specific repo, scans for any possible barriers to entry, such as overuse of jargon, poor or confusing documentation, lack of good "first bugs" or clear instruction on how to get involved. **Also keep an eye out for lingering placeholder text from the GH template that project leads forked. All text should be project specfic!**
 6. PC provides feedback to PL to revise documentation as needed-- this can be done in GH issues. 
 7. If/when PL completes checklist to be featured project, PL creates a Pulse listing using the Pulse submission form (link in PL's issue checklist). PL should also add the appropriate tags, especially the global sprint tags. PL should add the tags `mozsprint` and `2018`, and any relevant interent health tags
 8. Once the listing is submitted, the PC reviews the listing (see below, for tips on reviewing) and approves project in Mozilla Pulse or pings a Mozilla staff moderator do so. 
