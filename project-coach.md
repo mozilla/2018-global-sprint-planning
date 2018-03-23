@@ -25,12 +25,13 @@ Many projects that are new to GitHub and the Sprint may have forked a template r
 9. When the project is complete and featured, Coach encourages Lead to **remove the preparation check-list from their issue in the GS repo, so the issue is now bright, shiny and contributor facing!**
 
 ### Featured Projects on Pulse
-A featured project is one that's been reviewed for documetation and shows up in Mozilla Pulse!
-To moderate on [Mozilla Pulse](https://www.mozillapulse.org/featured) you'll need to log in. If you are new to Mozilla Pulse, please take a minute or two to create a profile. A moderation option will appear at top right on your page.  If you don't see the moderation option right away, don't worrry. We will be adding these on Tuesday 3/27. If after 3/27 you still don't see the option just ping Zannah in the Gitter chat and I'll be sure to get you moderator permissions.
+A featured project is one that's been reviewed for good documetation and is listed in [Mozilla Pulse](https://www.mozillapulse.org/featured). These are our most contributor-friendly projects!
+
+To moderate on Pulse you'll need to log in. If you are new to Mozilla Pulse, please take a minute or two to create a profile. A moderation option will appear at top right on your page.  If you don't see the moderation option right away, don't worrry. We will be adding these on Tuesday 3/27. If after 3/27 you still don't see the option just ping Zannah in the Gitter chat and I'll be sure to get you moderator permissions.
 
 PLEASE **ONLY** MODERATE PULSE LISTINGS FOR PROJECTS YOU ARE COACHING! Do not take any action on any other listings.
 
-The following information must be included in any Pulse listing-- ensure that this information is complete before approving any submission. Use the list below to check each submission before you approve it:
+The following information must be included in any Pulse listing-- ensure that this information is complete before approving any project. Use the list below to check each submission before you approve it:
 
 * **Title** Use the title of the project
 * **URL** If the project has a landing page, it goes here. Otherwise, link to the README in your project repo
@@ -44,10 +45,10 @@ The following information must be included in any Pulse listing-- ensure that th
 * **Link for people to get involved.** -link to the README or coontributor Guidelines in the project's repository. 
 * **Project image** check that image is properly sized
 
-Use the dropdown menu to approve. And that's it!
+Check the "featured" box on the submission. Use the dropdown menu to approve. And that's it!
 
 #### Using labels
-Coaches encourage Leads to use labels that will help contributors find projects that match both their content interest and their skillset. For example, Coaches should ensure that tags like "help wanted:design" "help wanted:coding" "help wanted:documentation" are added to the project issue in the main Global Sprint repo. 
+Coaches should encourage Leads to use labels that will help contributors find projects that match both their content interest and their skillset. For example, Coaches should ensure that tags like "help wanted:design" "help wanted:coding" "help wanted:documentation" are added to the project issue in the main Global Sprint repo. 
 
 Also encourage Leads to add these labels, or more specific ones like "help wanted: javascript" to their individual issues in their own project-specific repos. THe goal here is to make it as easy as possible for contributors to find work to do!
 
