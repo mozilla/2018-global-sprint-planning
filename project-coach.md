@@ -26,8 +26,9 @@ Many projects that are new to GitHub and the Sprint may have forked a template r
 
 ### Featured Projects on Pulse
 A featured project is one that's been reviewed for documetation and shows up in Mozilla Pulse!
-To moderate on Mozilla Pulse you'll need to log-in. A moderation option should appear at top right on your page.
-PLEASE **ONLY** MODERATE PULSE LISTINGS FOR PROJECTS YOU ARE COACHING! Do not take any action on any other listings. If you don't see the moderation option right away, don't worrry-- just ping Zannah in the Gitter chat and I'll be sure to get you moderator permissions.
+To moderate on [Mozilla Pulse](https://www.mozillapulse.org/featured) you'll need to log in. If you are new to Mozilla Pulse, please take a minute or two to create a profile. A moderation option will appear at top right on your page.  If you don't see the moderation option right away, don't worrry. We will be adding these on Tuesday 3/27. If after 3/27 you still don't see the option just ping Zannah in the Gitter chat and I'll be sure to get you moderator permissions.
+
+PLEASE **ONLY** MODERATE PULSE LISTINGS FOR PROJECTS YOU ARE COACHING! Do not take any action on any other listings.
 
 The following information must be included in any Pulse listing-- ensure that this information is complete before approving any submission. Use the list below to check each submission before you approve it:
 
