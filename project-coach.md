@@ -6,7 +6,7 @@ Thanks for helping coach projects at the Globa Sprint! You'll be helping Project
 * Review project documentation and suggest edits/changes (as needed) to make materials more contributor-friendly
 * Answer any Sprint related questions Project Leads may have
 
-Start by familiarizing yourself with the [Project Lead info](https://mozilla.github.io/global-sprint/projects/) and [Project Requirements](https://mozilla.github.io/global-sprint/project-requirements/) for the 2018 Sprint. 
+Start by familiarizing yourself with the [Project Guide](https://mozilla.github.io/global-sprint/project-lead-guide/) for the 2018 Sprint, so you're clear on what Leads need to do, and what documentatino they'll need to provide. 
 
 As you know, a great README and good contributor guidelines and a clear license are key to building strong, active open projects-- so a thorough documentation review of all Sprint projects is very important! 
 
