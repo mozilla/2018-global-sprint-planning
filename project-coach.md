@@ -31,7 +31,9 @@ To moderate on Pulse you'll need to log in. If you are new to Mozilla Pulse, ple
 
 PLEASE **ONLY** MODERATE PULSE LISTINGS FOR PROJECTS YOU ARE COACHING! Do not take any action on any other listings.
 
-The following information must be included in any Pulse listing-- ensure that this information is complete before approving any project. Use the list below to check each submission before you approve it:
+The following information must be included in any Pulse listing-- ensure that this information is complete before approving any project. For your information, [here is the form](https://www.mozillapulse.org/add) that project leads will uset to submit (this is just FYI-- you are not expected to submit projects for them).
+
+Use the list below to check each submission before you approving.
 
 * **Title** Use the title of the project
 * **URL** If the project has a landing page, it goes here. Otherwise, link to the README in your project repo
@@ -41,9 +43,8 @@ The following information must be included in any Pulse listing-- ensure that th
 * **Key Internet Issues** OK to add multiple issue tags.
 * **Tags** `mozsprint` and `2018` are required!
 * **Project Image** Having an image really helps! Encourage leads to add an image
-* **Looking for support?...** They should list specific ways people can help, like "logo design" or "javascript coding." Also  select the top three asks for help from the list below.  
+* **Looking for support?...** They should list specific ways people can help, like "logo design" or "javascript coding." Also they should select the top three asks for help from the list provided.   
 * **Link for people to get involved.** -link to the README or coontributor Guidelines in the project's repository. 
-* **Project image** check that image is properly sized
 
 Check the "featured" box on the submission. Use the dropdown menu to approve. And that's it!
 
