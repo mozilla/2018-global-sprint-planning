@@ -46,7 +46,8 @@ Use the list below to check each submission before you approving.
 * **Looking for support?...** They should list specific ways people can help, like "logo design" or "javascript coding." Also they should select the top three asks for help from the list provided.   
 * **Link for people to get involved.** -link to the README or coontributor Guidelines in the project's repository. 
 
-Check the "featured" box on the submission. Use the dropdown menu to approve. And that's it!
+**DO NOT** check the "featured" box on the submission. 
+**DO** Use the dropdown menu to select "Approved". And that's it!
 
 #### Using labels
 Coaches should encourage Leads to use labels that will help contributors find projects that match both their content interest and their skillset. For example, Coaches should ensure that tags like "help wanted:design" "help wanted:coding" "help wanted:documentation" are added to the project issue in the main Global Sprint repo. 
