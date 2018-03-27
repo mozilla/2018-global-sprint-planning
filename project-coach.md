@@ -51,7 +51,7 @@ Use the list below to check each submission before you approving.
 
 ### Moderating
 
-* Go to [mozillapulse.org](http://mozillapulse.org/) and log in
+* Go to [mozillapulse.org](http://mozillapulse.org/) and Sign in.
 * Once we've given you moderation access, you'll see a '**Moderation**' option on the top bar. Click on it.
 * Look for the entry you're moderating. It may be in '**Pending**' or '**In Review**'
   ![ui](https://user-images.githubusercontent.com/617994/37991432-1edc4856-31d7-11e8-9d14-11faaa642871.png)
