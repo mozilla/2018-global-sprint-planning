@@ -49,6 +49,15 @@ Use the list below to check each submission before you approving.
 **DO NOT** check the "featured" box on the submission. 
 **DO** Use the dropdown menu to select "Approved". And that's it!
 
+### Moderating
+
+* Go to [mozillapulse.org](http://mozillapulse.org/) and log in
+* Once we've given you moderation access, you'll see a '**Moderation**' option on the top bar. Click on it.
+* Look for the entry you're moderating. It may be in '**Pending**' or '**In Review**'
+  ![ui](https://user-images.githubusercontent.com/617994/37991432-1edc4856-31d7-11e8-9d14-11faaa642871.png)
+* To approve an entry, select '**Approved**' from the drop down menu on that entry. **Do not select 'Featured'.**
+  ![approval](https://user-images.githubusercontent.com/617994/37991161-72b14086-31d6-11e8-95ca-788c84374c97.jpg)
+
 #### Using labels
 Coaches should encourage Leads to use labels that will help contributors find projects that match both their content interest and their skillset. For example, Coaches should ensure that tags like "help wanted:design" "help wanted:coding" "help wanted:documentation" are added to the project issue in the main Global Sprint repo. 
 
