@@ -58,8 +58,11 @@ Use the list below to check each submission before you approving.
 * To approve an entry, select '**Approved**' from the drop down menu on that entry. **Do not select 'Featured'.**
   ![approval](https://user-images.githubusercontent.com/617994/37991161-72b14086-31d6-11e8-95ca-788c84374c97.jpg)
 
-#### Using labels
-Coaches should encourage Leads to use labels that will help contributors find projects that match both their content interest and their skillset. For example, Coaches should ensure that tags like "help wanted:design" "help wanted:coding" "help wanted:documentation" are added to the project issue in the main Global Sprint repo. 
+#### Mozilla Pulse: Missing tags and images?
+If the project you're reviewing is missing the required `mozsprint` & `2018` tags, or it's missing an image, you can the project lead to resubmit with the correct info. Sadly, there is no easy way to edit Pulse entries.
+
+#### Using GitHub labels
+Coaches should encourage Leads to use [labels in their GitHub repository](https://help.github.com/articles/creating-a-label/) that will help contributors find projects that match both their content interest and their skillset. For example, Coaches should ensure that labels like "help wanted:design" "help wanted:coding" "help wanted:documentation" are added to the project issue in the main Global Sprint repo. 
 
 Also encourage Leads to add these labels, or more specific ones like "help wanted: javascript" to their individual issues in their own project-specific repos. THe goal here is to make it as easy as possible for contributors to find work to do!
 
