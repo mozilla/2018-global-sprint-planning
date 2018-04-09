@@ -33,7 +33,7 @@ PLEASE **ONLY** MODERATE PULSE LISTINGS FOR PROJECTS YOU ARE COACHING! Do not ta
 
 The following information must be included in any Pulse listing-- ensure that this information is complete before approving any project. For your information, [here is the form](https://www.mozillapulse.org/add) that project leads will uset to submit (this is just FYI-- you are not expected to submit projects for them).
 
-Use the list below to check each submission before you approving.
+Use the list below to check each **Mozilla Pulse** submission before you approving. This should be done after the project lead has completed the checklist in their issue and followed the project lead guide.
 
 * **Title** Use the title of the project
 * **URL** If the project has a landing page, it goes here. Otherwise, link to the README in your project repo
