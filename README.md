@@ -13,7 +13,7 @@ Anyone from across the network can join the Global sprint as a **Project Lead, a
 
 ### What can Mozilla staff and volunteers do to help ensure a successful Sprint?
 
-* **Recruit Sprint projects**  Direct potential leads to Global Sprint site and submission form. [More about wrangling Projects & Project Leads here.](https://github.com/MozillaFoundation/2017-global-sprint-planning/blob/master/project-selection.md)
+* **Recruit Sprint projects**  Direct potential leads to Global Sprint site and submission form. [More about coaching Projects & Project Leads here.](https://github.com/mozilla/2018-global-sprint-planning/blob/master/project-coach.md)
 * **Recruit Site Hosts** Partner groups, institutions or orgs make great site hosts. [More about wrangling Sites here.](https://github.com/MozillaFoundation/2017-global-sprint-planning/blob/master/sites.md) 
 * **Recruit Participants** Get the word out! Blog, tweet, and post on your preferred social media sites about the Sprint! Highlight it in your community calls and other comms! More about comms coming soon!
 
